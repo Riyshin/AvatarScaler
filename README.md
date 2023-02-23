@@ -6,4 +6,6 @@ Drag your Avatar into the slot and make sure your Avatar has an Avatar Descripto
 
 Very easy to use, just slide the slider to a size of your desire. The View Position and Trails are also being adjusted for you too.
 
+You can download it from <a href="https://github.com/Riyshin/AvatarScaler/archive/refs/heads/main.zip">HERE</a>.
+
 ![TE9hXsNSDP](https://user-images.githubusercontent.com/106936079/221051309-739aa43c-660c-4591-8ebf-7a88132a2141.png)
